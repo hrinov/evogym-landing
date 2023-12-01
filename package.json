@@ -1,6 +1,5 @@
 {
   "name": "evogym-landing",
-  "homepage": "https://ruslan-hrinov.github.io/evogym-landing/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
